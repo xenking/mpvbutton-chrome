@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "MPV Button",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Adds a button for MPV player to YouTube",
+    "description": "The description of the application"
+  }
+}

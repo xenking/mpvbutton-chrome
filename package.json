@@ -1,0 +1,20 @@
+{
+  "name": "mpvbutton-chrome",
+  "version": "1.2.1",
+  "description": "Extension add 'Open in MPV' button",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify -t brfs contentscript-src.js -o extension/scripts/contentscript.js"
+  },
+  "author": "XENKing",
+  "license": "MIT",
+  "devDependencies": {
+    "arrive": "^2.4.1",
+    "brfs": "^1.4.0",
+    "browserify": "^16.3.0",
+    "domready": "^1.0.7"
+  },
+  "dependencies": {
+    "new-element": "0.0.2"
+  }
+}
