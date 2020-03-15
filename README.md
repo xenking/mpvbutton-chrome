@@ -1,3 +1,6 @@
+![npm](https://img.shields.io/npm/v/mpvbutton-chrome)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/xenking/mpvbutton-chrome)
+![GitHub](https://img.shields.io/github/license/xenking/mpvbutton-chrome)
 # MPV button chrome extension
 
 **Extension that adds a button to youtube videos to 'play in external MPV player'**
